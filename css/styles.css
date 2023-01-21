@@ -1,12 +1,12 @@
 body {
     background-color: #E3F6FF;
-    }
+}
 hr {
     border-style: dotted none none;
     width: 10%;
     border-width: 7px;
     border-color: gray;
-    }
+}
 h1 {
     color: #66BFBF;
 }
@@ -20,5 +20,5 @@ h3 {
 }
 
 p {
-text-size-adjust: 80%;
+    text-size-adjust: 80%;
 }
