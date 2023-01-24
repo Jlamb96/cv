@@ -21,3 +21,8 @@ h3 {
 p {
 text-size-adjust: 80%;
 }
+
+.announcement {
+    color: red;
+}
+    
